@@ -1,4 +1,4 @@
-# Video Game Sentiment Analysis on Twitter
+# GameSentiment: Analyzing Player Emotions and Feedback
 
 ## Project Overview
 This project aims to classify sentiments in social media posts related to video games using Natural Language Processing (NLP) and machine learning techniques. The dataset, consisting of tweets labeled with sentiments (positive, negative, neutral, irrelevant), was sourced from Twitter and preprocessed for analysis. The goal is to analyze these tweets to detect sentiment and understand the relationship between sentiment and the respective game brands mentioned in the posts. Various models, including Feedforward Neural Networks (FFNN), Gated Recurrent Units (GRU), and Bidirectional Long Short-Term Memory Networks (BiLSTM), were used to predict sentiment based on the cleaned and processed textual data.
